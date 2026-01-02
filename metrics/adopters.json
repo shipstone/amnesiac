@@ -1,3 +1,9 @@
 {
-  "adopters": []
+  "adopters": [
+    {
+      "name": "111",
+      "repo": "shipstone/ruzzle-pwa",
+      "local": "/Users/creed/Projects/ruzzle-pwa"
+    }
+  ]
 }
