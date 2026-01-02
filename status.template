@@ -1,0 +1,5 @@
+phase: define
+task: setup
+next: waiting for project goal
+files:
+verify:
